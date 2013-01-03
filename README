@@ -1,0 +1,3 @@
+local-varial-in-stack.cpp
+    show what value the local variable is before initialization:
+    to verify the local variable is in program's stack
